@@ -1,0 +1,4 @@
+setenv_flask.cmd
+pybo.db
+*.pyc
+__pycache__
